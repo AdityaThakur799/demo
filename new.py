@@ -13,6 +13,6 @@ print("new change2")
 a=a+10
 print(a)
 
-def fac():
+def fac() :
     pass
 print("jj")
