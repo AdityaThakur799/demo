@@ -16,3 +16,8 @@ print(a)
 def fac() :
     pass
 print("jj")
+print("hello user")
+
+x=10
+
+
