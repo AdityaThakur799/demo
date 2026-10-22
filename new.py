@@ -20,4 +20,9 @@ x=1
 y=12
 print("Why do we need joins?")
 sum=a+y+x
-print("INNER JOIN")
+print("INNER JOIN") 
+
+
+print("oo my goood")
+
+print("ye kya ho gya ")
