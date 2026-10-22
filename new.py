@@ -18,7 +18,6 @@ def fac() :
 print("jj")
 print("hello user")
 
-x=10
-
-
+x=1
 y=12
+sum=a+y
