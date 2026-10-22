@@ -5,3 +5,13 @@ print("new features")
 
 
 print("make major changes")
+
+
+
+
+
+print("doing squase from terminal")
+
+print("doing 2nd update ")
+
+print('doing some major changes')
