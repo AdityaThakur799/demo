@@ -22,3 +22,4 @@ x=1
 y=12
 print("Why do we need joins?")
 sum=a+y
+print("INNER JOIN")
