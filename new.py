@@ -7,3 +7,6 @@ for i in range(1,11):
     a=a+6+i
     
 print(a)    
+print("x yz")
+print("helo")
+print("new change")
