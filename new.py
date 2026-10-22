@@ -10,3 +10,9 @@ print(a)
 print("x yz")
 print("helo")
 print("new change2")
+a=a+10
+print(a)
+
+def fac():
+    pass
+print("jj")
