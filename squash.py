@@ -11,6 +11,7 @@ print("new changes")
 
 print("new changes 2")
 
+<<<<<<< HEAD
 print("last")
 
 
@@ -32,3 +33,6 @@ print("final change in rebase")
 
 print("angle of 90 in ")
 print("final change in rebase")
+=======
+print("last")
+>>>>>>> f77c227945008d882607fa6c5c503425d49d6f26
